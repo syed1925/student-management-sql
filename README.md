@@ -15,4 +15,5 @@ This project contains a complete SQL setup for managing a student system with st
 2. Run `insert_data.sql` to populate data into the tables.
 3. Run queries from `queries.sql` to analyze and fetch insights.
 
-Enjoy working with your SQL project!
+Enjoy working with your SQL project
+syed minhaj (https://github.com/syed1925)
